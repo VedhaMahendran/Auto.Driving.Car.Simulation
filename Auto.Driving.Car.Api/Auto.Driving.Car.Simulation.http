@@ -1,0 +1,6 @@
+@Auto.Driving.Car.Simulation_HostAddress = http://localhost:5184
+
+GET {{Auto.Driving.Car.Simulation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
